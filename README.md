@@ -37,24 +37,29 @@ It is the look-back resistance across the load terminals when all the sources ar
 To measure IL
 
 <img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
+![WhatsApp Image 2025-10-24 at 12 01 37_afae23db](https://github.com/user-attachments/assets/7c95e4af-26ed-452d-a388-4e132c806012)
+
 
 To measure RTh or RN
 
 <img width="360" height="139" alt="image" src="https://github.com/user-attachments/assets/4a0cd230-205b-48ad-ab08-f359aaf192a6" />
+![WhatsApp Image 2025-10-24 at 13 18 07_70c5cc29](https://github.com/user-attachments/assets/45073606-46e3-4c34-9b24-3af9b09cd7b6)
+
 
 To measure VTh or Voc
 
 <img width="452" height="142" alt="image" src="https://github.com/user-attachments/assets/b0bb48a9-90fe-4979-a3fe-4e41c67239ce" />
+![WhatsApp Image 2025-10-24 at 13 18 07_70c5cc29](https://github.com/user-attachments/assets/f391abbb-e653-4dff-9c6c-5e0ace09afc2)
 
 Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+![WhatsApp Image 2025-10-24 at 13 18 07_70c5cc29](https://github.com/user-attachments/assets/2d6ba5d6-cce3-4dbb-ab36-ff6b313e5e43)
 
 
 **PROCEDURE:**
 
 1.	Make the connections as per the Circuit Diagram:1
-
 2.	Vary the RPS and set an input voltage of 10V.
 
 3.	Note down the voltmeter reading (Vi) and ammeter reading (IL) in Tabular Column 1.
@@ -78,3 +83,9 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+
+ **TABULAR COLUMN;**
+ ![WhatsApp Image 2025-10-24 at 12 02 39_7161bb0d](https://github.com/user-attachments/assets/fa68efa3-4ff8-4a2a-9d22-403398bb34e7)
+
+**CALCULATION;**
+![WhatsApp Image 2025-10-24 at 12 01 37_6837d11c](https://github.com/user-attachments/assets/20eadb2e-54e2-4a3f-879a-f249b2e9844f)
